@@ -22,6 +22,7 @@ header {
   align-items: center;
   height: 106px;
   text-transform: uppercase;
+  padding: 0 10%;
 }
 
 /* Navigation */
@@ -93,6 +94,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   text-transform: uppercase;
+  padding: 0 10%;
 }
 
 footer a {
